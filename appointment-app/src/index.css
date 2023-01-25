@@ -1,0 +1,4 @@
+/* this index css applys to all the application */
+@tailwind base;
+@tailwind componentes;
+@tailwind utilities;
